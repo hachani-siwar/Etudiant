@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="classe">
+            <item>DSI2</item>
+            <item>DSI3</item>
+            <item>RSI2</item>
+            <item>RSI3</item>
+            <item>SEM2</item>
+            <item>SEM3</item>
+        </string-array>
+    </resources>
+
